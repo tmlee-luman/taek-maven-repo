@@ -17,12 +17,12 @@
     <distributionManagement>
         <repository>
             <id>release</id>
-            <url>https://github.com/tmlee-luman/taek-maven-repo/master/releases</url>
+            <url>https://github.com/tmlee-luman/taek-maven-repo/raw/master/releases</url>
         </repository>
 
         <snapshotRepository>
             <id>snapshot</id>
-            <url>https://github.com/tmlee-luman/taek-maven-repo/master/snapshot</url>
+            <url>https://github.com/tmlee-luman/taek-maven-repo/raw/master/snapshot</url>
         </snapshotRepository>
     </distributionManagement>
 
