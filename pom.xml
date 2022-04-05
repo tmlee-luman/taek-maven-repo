@@ -17,12 +17,12 @@
     <distributionManagement>
         <repository>
             <id>release</id>
-            <url>https://github.com/tmlee-luman/file-upload-test/master/releases</url>
+            <url>https://github.com/tmlee-luman/TaekFileUpload/master/releases</url>
         </repository>
 
         <snapshotRepository>
             <id>snapshot</id>
-            <url>https://github.com/tmlee-luman/file-upload-test/master/snapshot</url>
+            <url>https://github.com/tmlee-luman/TaekFileUpload/master/snapshot</url>
         </snapshotRepository>
     </distributionManagement>
 
